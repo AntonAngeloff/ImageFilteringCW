@@ -7,4 +7,9 @@ In filter.c are provided 9 built-in matrices like blur with 5x5 kernel, sharpen,
 
 Two input formats are supported - PGM and BMP, while the output is only in PGM.
 
+Screen shots:
+![Alt text](/docs/screen1.png)
+![Alt text](/docs/screen2.png)
+![Alt text](/docs/screen3.png)
+
 For license information, see LICENSE.txt.
